@@ -2,6 +2,8 @@
 
 Please see the [API documentation](API.md) for details on how the code is set up.
 
+For an example of how to write the code for a dataset and clustering method, and run an experiment, see [this notebook](notebooks/experiment_example.ipynb).
+
 ## Goals
 
 1. Compare the performance of multiple clustering algorithms applied to acoustic/seismic waves with known class labels.
