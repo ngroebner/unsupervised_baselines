@@ -1,0 +1,16 @@
+name: unsupervised_baseline
+channels:
+  - conda-forge
+  - default
+dependencies:
+  - python=3.9
+  - mlflow
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - ipykernel
+  - pip
+  - pip:
+    - -e .
